@@ -3,13 +3,13 @@
     <channel>
         <title>copied</title>
         <item>
-            <title>1.7</title>
-            <pubDate>Tue, 30 Jun 2026 12:21:48 +0300</pubDate>
-            <sparkle:version>202606300921</sparkle:version>
-            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <title>1.8</title>
+            <pubDate>Tue, 30 Jun 2026 12:26:37 +0300</pubDate>
+            <sparkle:version>202606300926</sparkle:version>
+            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/sergio-ser/copied-updates/releases/download/v1.7/Copied-1.7.dmg" length="1423101" type="application/octet-stream" sparkle:edSignature="V4mvLWO8okqH6FHxeewzV+RHvHhCJmtivEHPNh84SBD1YiWQ5zn21A1v49cyjd5mw8OBOa4gyCZdTBOs4Zi0Dg=="/>
+            <enclosure url="https://github.com/sergio-ser/copied-updates/releases/download/v1.8/Copied-1.8.dmg" length="1423075" type="application/octet-stream" sparkle:edSignature="Dh0mN5l0XFwhzKZ9kIkuPdQCVgpaDDe/yFfhjSyCZCUBVQEsbphLtgIE7Hhs4t80dsSwnpZIH+FewD65M0exAA=="/>
         </item>
     </channel>
 </rss>
